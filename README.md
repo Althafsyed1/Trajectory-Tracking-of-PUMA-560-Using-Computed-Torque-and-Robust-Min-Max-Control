@@ -527,8 +527,7 @@ Contributions are welcome! Please follow these guidelines:
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your.email@example.com)
 
 **Bhagyath Badduri**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/yourusername)
+
 
 ### Acknowledgments
 - **Dr. Long Wang** - Course instructor and project advisor
@@ -573,7 +572,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
 - **Issues**: [GitHub Issues](https://github.com/yourusername/puma560-control/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/puma560-control/discussions)
-- **Email**: your.email@example.com
+- **Email**: althaf2577@gmail.com
 
 ---
 
