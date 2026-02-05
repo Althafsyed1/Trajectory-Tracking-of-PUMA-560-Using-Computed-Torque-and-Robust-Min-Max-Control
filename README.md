@@ -35,7 +35,7 @@ This project implements and analyzes two sophisticated control strategies for tr
 
 ### 🎓 Academic Context
 - **Course**: ME 650 - Robot Manipulators
-- **Institution**: [Your University Name]
+- **Institution**: [Stevens Institute of Technology]
 - **Instructor**: Dr. Long Wang
 
 ### 🔬 Research Objectives
