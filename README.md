@@ -1,6 +1,4 @@
-# Trajectory-Tracking-of-PUMA-560-Using-Computed-Torque-and-Robust-Min-Max-Control
-
-# 🤖 Advanced Trajectory Tracking Control for PUMA 560 Robot Manipulator
+# 🤖 Advanced Trajectory Tracking Control for PUMA 560 Robot Manipulator Computed-Torque-and-Robust-Min-Max-Control
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2020b+-orange.svg)](https://www.mathworks.com/products/matlab.html)
 [![Robotics Toolbox](https://img.shields.io/badge/Robotics_Toolbox-Peter_Corke-blue.svg)](https://petercorke.com/toolboxes/robotics-toolbox/)
