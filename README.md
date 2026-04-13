@@ -305,6 +305,18 @@ results = simulate_robot(traj_params, gains);
 | Y | 0.0028 | 0.0134 | 0.0039 |
 | Z | 0.0041 | **0.0492** | 0.0067 |
 
+
+
+https://github.com/user-attachments/assets/fa3ff1d7-8b59-4d16-9b12-d47c680540b6
+
+
+
+https://github.com/user-attachments/assets/4776374f-82c2-40ff-a88b-f75b328f749f
+
+
+
+
+
 **Key Insight:** The robust controller reduces Z-axis error by **86.4%** under payload uncertainty, critical for vertical precision tasks.
 
 ### Visualization Gallery
